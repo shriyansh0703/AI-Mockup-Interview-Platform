@@ -96,13 +96,6 @@ An AI-powered interview preparation platform that helps users practice and impro
 └── utils/                 # Utility functions
 ```
 
-## 👥 Authors
-
-- Tanmay Kalra
-- Shriyansh Goel
-- Vaishnav Gupta
-- Saksham Agrawal
-
 ## 🔐 Google Auth with Supabase
 
 If you are using Supabase OAuth (current setup), you do not place `GOOGLE_CLIENT_ID` or `GOOGLE_CLIENT_SECRET` in this app. Instead:
@@ -130,3 +123,4 @@ During local dev, also add your site URL to Supabase Auth settings (Site URL or 
 ```
 http://localhost:3000
 ```
+
